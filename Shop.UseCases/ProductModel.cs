@@ -9,6 +9,7 @@ namespace Shop.UseCases
 {
     public class ProductModel:Product
     {
+        //small com
         public string ImagePath { get; set; }
         public void ChangeTo(ProductModel prod)
         {
