@@ -1,0 +1,15 @@
+C:\Users\stude\source\repos\Shop\Shop.UseCases\bin\Debug\net5.0\Shop.UseCases.deps.json
+C:\Users\stude\source\repos\Shop\Shop.UseCases\bin\Debug\net5.0\Shop.UseCases.dll
+C:\Users\stude\source\repos\Shop\Shop.UseCases\bin\Debug\net5.0\ref\Shop.UseCases.dll
+C:\Users\stude\source\repos\Shop\Shop.UseCases\bin\Debug\net5.0\Shop.UseCases.pdb
+C:\Users\stude\source\repos\Shop\Shop.UseCases\bin\Debug\net5.0\Shop.Domain.dll
+C:\Users\stude\source\repos\Shop\Shop.UseCases\bin\Debug\net5.0\Shop.Domain.pdb
+C:\Users\stude\source\repos\Shop\Shop.UseCases\obj\Debug\net5.0\Shop.UseCases.csprojAssemblyReference.cache
+C:\Users\stude\source\repos\Shop\Shop.UseCases\obj\Debug\net5.0\Shop.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stude\source\repos\Shop\Shop.UseCases\obj\Debug\net5.0\Shop.UseCases.AssemblyInfoInputs.cache
+C:\Users\stude\source\repos\Shop\Shop.UseCases\obj\Debug\net5.0\Shop.UseCases.AssemblyInfo.cs
+C:\Users\stude\source\repos\Shop\Shop.UseCases\obj\Debug\net5.0\Shop.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\stude\source\repos\Shop\Shop.UseCases\obj\Debug\net5.0\Shop.UseCases.csproj.CopyComplete
+C:\Users\stude\source\repos\Shop\Shop.UseCases\obj\Debug\net5.0\Shop.UseCases.dll
+C:\Users\stude\source\repos\Shop\Shop.UseCases\obj\Debug\net5.0\ref\Shop.UseCases.dll
+C:\Users\stude\source\repos\Shop\Shop.UseCases\obj\Debug\net5.0\Shop.UseCases.pdb
